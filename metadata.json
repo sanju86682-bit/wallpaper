@@ -1,0 +1,8 @@
+{
+  "name": "wally wallpaper",
+  "description": "A high-end creative platform for discovering and generating wallpapers, themes, fonts, and icons using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
